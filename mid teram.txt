@@ -21,7 +21,7 @@ Q1:
 16. When the desired changes are sucessfull, commit the code with message "updated verion of application final version" and make sure the same verion of application is available on web server you ran.
 17. Now you have to merge the branch "update-webcode-1" in "main" branch and push the code to github main branch.
 18. Pull the code from "main" branch and make sure the latest code is available in the webroot of "myapp-prod" container and verify the prod url is showing you the updated verion of application.
-19. Delete the branch "update-webcode-1" from local git and github.
+19. Delete the branch "update-webcode-1" from local git and github.  
 
 Q2:
 Create a directory named as "project1". Place two dockerfiles named respectively "dockerfile_midterm" and "dokcerfileweb2" inside of "project1" directory. (Note these dockerfiles must be from lab1 and lab2 that we did yesterday).
